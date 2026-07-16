@@ -17,7 +17,7 @@ class Solution {
                 sum -= nums[l];
                 l++;
             }
-            if(i - l + 1 == k && map.size() == k)
+            if( map.size() == k)
                 max = Math.max(max , sum);
         }
         return max;
