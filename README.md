@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/kani2905/LeetCode/tree/master/0135-candy) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kani2905/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kani2905/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kani2905/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kani2905/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/kani2905/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
