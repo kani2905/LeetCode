@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kani2905/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/kani2905/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/kani2905/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
