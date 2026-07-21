@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/kani2905/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kani2905/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/kani2905/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kani2905/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kani2905/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kani2905/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
