@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kani2905/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kani2905/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kani2905/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kani2905/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kani2905/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kani2905/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kani2905/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kani2905/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kani2905/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/kani2905/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kani2905/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/kani2905/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kani2905/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kani2905/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kani2905/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Dynamic Programming
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/kani2905/LeetCode/tree/master/0135-candy) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kani2905/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kani2905/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
 | ------- |
@@ -132,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kani2905/LeetCode/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kani2905/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
