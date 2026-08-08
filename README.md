@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kani2905/LeetCode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kani2905/LeetCode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kani2905/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kani2905/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kani2905/LeetCode/tree/master/0062-unique-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/kani2905/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/kani2905/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kani2905/LeetCode/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kani2905/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
