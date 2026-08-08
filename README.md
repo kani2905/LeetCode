@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kani2905/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/kani2905/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kani2905/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/kani2905/LeetCode/tree/master/0135-candy) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kani2905/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/kani2905/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kani2905/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/kani2905/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/kani2905/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/kani2905/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Binary Search
@@ -149,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/kani2905/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/kani2905/LeetCode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
