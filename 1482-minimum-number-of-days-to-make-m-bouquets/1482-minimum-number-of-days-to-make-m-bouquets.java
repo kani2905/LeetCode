@@ -1,48 +1,58 @@
-import java.util.*;
-
 class Solution {
 
-    public static boolean isPossible(int[] bloomDays, int day, int m, int k) {
-        int count = 0; 
-        int bouquets = 0; 
-        for (int bloom : bloomDays) {
-            if (bloom <= day) {
-                count++; 
-                if (count == k) {
-                    bouquets++; 
-                    count = 0; 
-                }
+    public int minDays(int[] bloomDay, int m, int k) {
+
+        int n = bloomDay.length;
+        if ((long) m * k > n) {
+            return -1;
+        }
+
+        int low = Integer.MAX_VALUE;
+        int high = Integer.MIN_VALUE;
+
+        for (int day : bloomDay) {
+            low = Math.min(low, day);
+            high = Math.max(high, day);
+        }
+
+        while (low < high) {
+
+            int mid = low + (high - low) / 2;
+
+            if (canMake(bloomDay, m, k, mid)) {
+                high = mid;       
             } else {
-                count = 0; 
+                low = mid + 1;    
             }
         }
 
-        return bouquets >= m; 
+        return low;
     }
 
-    public static int minDays(int[] bloomDays, int k, int m) {
-        long required = (long) m * k;
-        if (required > bloomDays.length) return -1; 
-        int minDay = Integer.MAX_VALUE;
-        int maxDay = Integer.MIN_VALUE;
+    private boolean canMake(int[] bloomDay, int m, int k, int days) {
 
-        for (int bloom : bloomDays) {
-            minDay = Math.min(minDay, bloom);
-            maxDay = Math.max(maxDay, bloom);
-        }
+        int flowers = 0;
+        int bouquets = 0;
 
-        int low = minDay, high = maxDay, result = -1;
+        for (int day : bloomDay) {
 
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (isPossible(bloomDays, mid, m, k)) {
-                result = mid; 
-                high = mid - 1;
+            if (day <= days) {
+                flowers++;
+
+                if (flowers == k) {
+                    bouquets++;
+                    flowers = 0;
+                }
+
             } else {
-                low = mid + 1; 
+                flowers = 0;
+            }
+
+            if (bouquets >= m) {
+                return true;
             }
         }
 
-        return result;
+        return false;
     }
 }
