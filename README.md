@@ -203,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/kani2905/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/kani2905/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
